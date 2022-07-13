@@ -2,5 +2,9 @@
   {
     "package": "pbivnorm",
     "oncran": true
+  },
+  {
+    "package": "polywog",
+    "oncran": true
   }
 ]
