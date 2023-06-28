@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pbivnorm"]
 	path = pbivnorm
 	url = https://github.com/brentonk/pbivnorm
-	shallow = true
-	registered = true
 [submodule "polywog"]
 	path = polywog
 	url = https://github.com/brentonk/polywog
-	shallow = true
-	registered = true
